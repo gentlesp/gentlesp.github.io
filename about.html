@@ -18,20 +18,13 @@ header-img: "img/post-bg-rwd.jpg"
     <blockquote><p>sp是肉体惩罚和羞辱<br>
     更是一种心灵治愈</p></blockquote>
 
-    <p>Hey，我是<strong>团鬼七</strong>，一个sp男主，有生俱来。</p>
+    <p>Hey，我是<strong>团鬼七</strong>，一个sp男主，这种情结，与生俱来。</p>
 
     <p>工作、学习之余，我喜欢静坐，健身，写小说。</p>
-    <p>这种情结，是与生俱来，很小就喜欢写sp小说，自娱自乐。</p>
-    <p>曾经在google博客上写过很多中英文sp小说，href="https://chinesespnovel.blogspot.com"，现在打算多写中文sp小说。</p>
+    <p>曾经在google博客上写过很多中英文sp小说，<a>href="https://chinesespnovel.blogspot.com"</a>，现在打算多写中文sp小说。</p>
 
 
     <p></p>
-    
-    <h5>Talks</h5>
-
-    <ul>
-        <li><a href="https://analytics.google.com/analytics">Google Analytics</a></li>
-    </ul>
 </div>
 
 <!-- English Version -->
@@ -95,28 +88,6 @@ header-img: "img/post-bg-rwd.jpg"
     _render();
 </script>
 
-
-<!-- Gitalk 评论 start  -->
-{% if site.gitalk.enable %}
-<!-- Gitalk link  -->
-<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
-<script src="https://unpkg.com/gitalk@latest/dist/gitalk.min.js"></script>
-
-<div id="gitalk-container"></div>
-    <script type="text/javascript">
-    var gitalk = new Gitalk({
-    clientID: '{{site.gitalk.clientID}}',
-    clientSecret: '{{site.gitalk.clientSecret}}',
-    repo: '{{site.gitalk.repo}}',
-    owner: '{{site.gitalk.owner}}',
-    admin: ['{{site.gitalk.admin}}'],
-    distractionFreeMode: {{site.gitalk.distractionFreeMode}},
-    id: 'about',
-    });
-    gitalk.render('gitalk-container');
-</script>
-{% endif %}
-<!-- Gitalk end -->
 
  <!-- disqus 评论框 start  -->
 {% if site.disqus.enable %}
