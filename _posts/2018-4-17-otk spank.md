@@ -13,7 +13,7 @@ tags:
 
 这两段都是我比较欣赏的SP杰作，一段是从spank tube上发现的，挨打的女子臀部丰满，先是隔着裙子，然后光屁股受罚。 巴掌打在她的屁股上，波浪起伏，臀浪滚滚，她的挣扎扭动和求饶，主动坚定不移地继续用力责打，体现出完美的spank情景。 沉着稳定又有力，体现一个男主的严厉和成熟。 女被如同一个小女孩，被狠狠打屁股时候充分体现了一个成熟女被的顺从与无奈。 最后，那红彤彤的两半圆月的升起，预示着这次惩罚的有效，这个女孩会牢记这次严厉的打屁股的处罚。
 
-<iframe width="560" height="315" src="https://d.tube/v/harshsp/qonvdb66q87" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://d.tube/v/harshsp/4rv74dmo9jg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
