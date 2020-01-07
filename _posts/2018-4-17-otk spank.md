@@ -16,7 +16,7 @@ tags:
 
 
 
-<iframe scrolling = "no" width="100%" height="100%" min-height="315px" src="https://d.tube/v/harshsp/4rv74dmo9jg" frameborder="0" allowfullscreen></iframe>
+<iframe scrolling = "no" width="100%" height="100%" min-height="315px" src="https://d.tube/v/harshsp/4rv74dmo9jg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
