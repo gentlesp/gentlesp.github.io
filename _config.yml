@@ -57,7 +57,7 @@ kramdown:
 
 # 评论系统
 #Disqus（https://disqus.com/）
-disqus_username: gentlesp-github-io-1
+#disqus_username: gentlesp-github-io-1
 
 # Gitalk
 # gitalk:
@@ -68,7 +68,22 @@ disqus_username: gentlesp-github-io-1
 #   owner: qiubaiying    #github用户名
 #   admin: qiubaiying
 #   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-
+# Valine评论系统开关
+# Valine.
+# You can get your appid and appkey from https://leancloud.app
+# more info please open https://valine.js.org
+valine:
+  enable: true
+  appid:  bGyABS7U0aUKdbDjp7JFxz2V-MdYXbMMI # your leancloud app id
+  appkey: 2Cdm2xPJWW1eA6sbngBJMHko # your leancloud app key
+  notify: true # mail notifier , https://github.com/xCss/Valine/wiki
+  verify: true # Verification code
+  placeholder: 请在此处留言 # comment box placeholder
+  avatar:   # gravatar style
+  guest_info: 昵称,邮件,网址 # custom comment header
+  pageSize: 10 # pagination size
+  # path: window.location.pathname
+  
 
 # 统计
 
